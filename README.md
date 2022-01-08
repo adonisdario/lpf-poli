@@ -1,5 +1,5 @@
 # lpf-poli
-Projeto de LPF da POLI
+Projeto de LPF da POLI, feito por Adônis Dário
 
 # Como executar:
 Abra o link do gitpod: 
